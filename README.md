@@ -31,4 +31,5 @@ Este es un proyecto de prueba que implementa Redis para almacenamiento en caché
     
 4️⃣ Iniciar el proyecto
 
-    node index.js
+    npm run start:dev
+    
